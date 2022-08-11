@@ -1,0 +1,7 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+}
+.wrapper h3{
+    margin-left: 10px;
+}

@@ -1,0 +1,22 @@
+.card{
+    width: 354px;
+    height: 133px;
+    background-color: #FFF;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    box-shadow: 4px 4px 0 #7828CA;
+    justify-content: center;
+    padding: 20px;
+    border: 1px solid black;
+    z-index: 1;
+    transition: 1s;
+    cursor: pointer;
+}
+.card:nth-child(odd){
+    margin-right: 0px;
+    margin-bottom: 60px;
+}
+.card:hover{
+    transform: scale(1.1);
+}

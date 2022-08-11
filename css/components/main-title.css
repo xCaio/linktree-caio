@@ -1,0 +1,11 @@
+.main-title{
+    font-size: 50px;
+    color: #7928CA;
+    text-shadow: 4px 4px 0px #000;
+    margin: 26px 0 0 0;
+}
+.main-title.-second{
+    color: #FFF;
+    text-shadow: 4px 4px 0px #7928CA;
+    margin: 0;
+}

@@ -1,0 +1,10 @@
+.services{
+    display: flex;
+    width: 900px; 
+    height: 440px;
+    padding: 20px;
+    justify-content: space-between;
+    max-width: 900px;
+    flex-wrap: wrap;
+    margin: 70px auto;
+}
